@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t-gAn
-- 👀 I’m interested in robotics, security, computer software and hardware, etc.
-- 🌱 I’m currently learning about computer engineering and cryptography
+- 👀 I’m interested in information security, robotics, computer software and hardware, etc.
+- 🌱 I’m currently learning about computer engineering and information security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
